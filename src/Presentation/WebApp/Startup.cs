@@ -34,6 +34,17 @@ namespace WebApp
             services.AddScoped<IUserRepository, UserCacheRepository>();
             services.AddScoped<IUserService, UserService>();
             services.AddControllersWithViews();
+            services.AddCors(option =>
+            {
+                option.AddPolicy("EnableCorsForHttpOnly", builder =>
+                {
+                    builder.WithOrigins(
+                            "https://localhost:5001")
+                        .AllowCredentials()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader();
+                });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -52,7 +63,7 @@ namespace WebApp
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
+            app.UseCors("EnableCorsForHttpOnly");
             app.UseRouting();
 
             app.UseAuthorization();
