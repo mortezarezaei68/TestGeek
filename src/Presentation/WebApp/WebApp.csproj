@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Domain\Domain.Models\Domain.Models.csproj" />
+      <ProjectReference Include="..\..\Infrastructure\Persist.Cache\Persist.Cache.csproj" />
+      <ProjectReference Include="..\..\Infrastructure\Persist.InMemory\Persist.InMemory.csproj" />
+      <ProjectReference Include="..\..\ServiceContract\Services.Contract\Services.Contract.csproj" />
+    </ItemGroup>
+
+</Project>

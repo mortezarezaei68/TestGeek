@@ -1,0 +1,15 @@
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.InMemory/bin/Debug/net5.0/Persist.InMemory.deps.json
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.InMemory/bin/Debug/net5.0/Persist.InMemory.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.InMemory/bin/Debug/net5.0/ref/Persist.InMemory.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.InMemory/bin/Debug/net5.0/Persist.InMemory.pdb
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.InMemory/bin/Debug/net5.0/Domain.Models.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.InMemory/bin/Debug/net5.0/Domain.Models.pdb
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.InMemory/obj/Debug/net5.0/Persist.InMemory.csprojAssemblyReference.cache
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.InMemory/obj/Debug/net5.0/Persist.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.InMemory/obj/Debug/net5.0/Persist.InMemory.AssemblyInfoInputs.cache
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.InMemory/obj/Debug/net5.0/Persist.InMemory.AssemblyInfo.cs
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.InMemory/obj/Debug/net5.0/Persist.InMemory.csproj.CoreCompileInputs.cache
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.InMemory/obj/Debug/net5.0/Persist.InMemory.csproj.CopyComplete
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.InMemory/obj/Debug/net5.0/Persist.InMemory.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.InMemory/obj/Debug/net5.0/ref/Persist.InMemory.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.InMemory/obj/Debug/net5.0/Persist.InMemory.pdb

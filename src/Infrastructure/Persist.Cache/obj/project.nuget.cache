@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NV/q9PBjK407MfkkpstcroAfaPUHWKWb9YJL3J+QetwNHLdWlJ+6i99JBpiBvZ+BTBwqVboBNgHvrb6b3Dntpg==",
+  "success": true,
+  "projectFilePath": "/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.Cache/Persist.Cache.csproj",
+  "expectedPackageFiles": [
+    "/home/morteza/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "/home/morteza/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

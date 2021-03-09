@@ -1,0 +1,12 @@
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Domain/Domain.Models/bin/Debug/net5.0/Domain.Models.deps.json
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Domain/Domain.Models/bin/Debug/net5.0/Domain.Models.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Domain/Domain.Models/bin/Debug/net5.0/ref/Domain.Models.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Domain/Domain.Models/bin/Debug/net5.0/Domain.Models.pdb
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Domain/Domain.Models/obj/Debug/net5.0/Domain.Models.csprojAssemblyReference.cache
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Domain/Domain.Models/obj/Debug/net5.0/Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Domain/Domain.Models/obj/Debug/net5.0/Domain.Models.AssemblyInfoInputs.cache
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Domain/Domain.Models/obj/Debug/net5.0/Domain.Models.AssemblyInfo.cs
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Domain/Domain.Models/obj/Debug/net5.0/Domain.Models.csproj.CoreCompileInputs.cache
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Domain/Domain.Models/obj/Debug/net5.0/Domain.Models.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Domain/Domain.Models/obj/Debug/net5.0/ref/Domain.Models.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Domain/Domain.Models/obj/Debug/net5.0/Domain.Models.pdb

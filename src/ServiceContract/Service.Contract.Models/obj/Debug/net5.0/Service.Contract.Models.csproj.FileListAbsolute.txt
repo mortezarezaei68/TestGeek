@@ -1,0 +1,12 @@
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/ServiceContract/Service.Contract.Models/bin/Debug/net5.0/Service.Contract.Models.deps.json
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/ServiceContract/Service.Contract.Models/bin/Debug/net5.0/Service.Contract.Models.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/ServiceContract/Service.Contract.Models/bin/Debug/net5.0/ref/Service.Contract.Models.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/ServiceContract/Service.Contract.Models/bin/Debug/net5.0/Service.Contract.Models.pdb
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/ServiceContract/Service.Contract.Models/obj/Debug/net5.0/Service.Contract.Models.csprojAssemblyReference.cache
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/ServiceContract/Service.Contract.Models/obj/Debug/net5.0/Service.Contract.Models.GeneratedMSBuildEditorConfig.editorconfig
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/ServiceContract/Service.Contract.Models/obj/Debug/net5.0/Service.Contract.Models.AssemblyInfoInputs.cache
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/ServiceContract/Service.Contract.Models/obj/Debug/net5.0/Service.Contract.Models.AssemblyInfo.cs
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/ServiceContract/Service.Contract.Models/obj/Debug/net5.0/Service.Contract.Models.csproj.CoreCompileInputs.cache
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/ServiceContract/Service.Contract.Models/obj/Debug/net5.0/Service.Contract.Models.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/ServiceContract/Service.Contract.Models/obj/Debug/net5.0/ref/Service.Contract.Models.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/ServiceContract/Service.Contract.Models/obj/Debug/net5.0/Service.Contract.Models.pdb

@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Domain.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Domain.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.Models.dll": {}
+        }
+      },
+      "Service.Contract.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Service.Contract.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.Contract.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domain.Models/1.0.0": {
+      "type": "project",
+      "path": "../../Domain/Domain.Models/Domain.Models.csproj",
+      "msbuildProject": "../../Domain/Domain.Models/Domain.Models.csproj"
+    },
+    "Service.Contract.Models/1.0.0": {
+      "type": "project",
+      "path": "../Service.Contract.Models/Service.Contract.Models.csproj",
+      "msbuildProject": "../Service.Contract.Models/Service.Contract.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Domain.Models >= 1.0.0",
+      "Service.Contract.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/morteza/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/ServiceContract/Services.Contract/Services.Contract.csproj",
+      "projectName": "Services.Contract",
+      "projectPath": "/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/ServiceContract/Services.Contract/Services.Contract.csproj",
+      "packagesPath": "/home/morteza/.nuget/packages/",
+      "outputPath": "/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/ServiceContract/Services.Contract/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/morteza/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://azure.hamrah-mechanic.com/HamrahMechanic/_packaging/HmNugetFeed/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Domain/Domain.Models/Domain.Models.csproj": {
+              "projectPath": "/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Domain/Domain.Models/Domain.Models.csproj"
+            },
+            "/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/ServiceContract/Service.Contract.Models/Service.Contract.Models.csproj": {
+              "projectPath": "/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/ServiceContract/Service.Contract.Models/Service.Contract.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.200/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

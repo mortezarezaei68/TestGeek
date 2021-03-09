@@ -1,0 +1,15 @@
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.Cache/obj/Debug/net5.0/Persist.Cache.csprojAssemblyReference.cache
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.Cache/obj/Debug/net5.0/Persist.Cache.GeneratedMSBuildEditorConfig.editorconfig
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.Cache/obj/Debug/net5.0/Persist.Cache.AssemblyInfoInputs.cache
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.Cache/obj/Debug/net5.0/Persist.Cache.AssemblyInfo.cs
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.Cache/obj/Debug/net5.0/Persist.Cache.csproj.CoreCompileInputs.cache
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.Cache/bin/Debug/net5.0/Persist.Cache.deps.json
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.Cache/bin/Debug/net5.0/Persist.Cache.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.Cache/bin/Debug/net5.0/ref/Persist.Cache.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.Cache/bin/Debug/net5.0/Persist.Cache.pdb
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.Cache/bin/Debug/net5.0/Domain.Models.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.Cache/bin/Debug/net5.0/Domain.Models.pdb
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.Cache/obj/Debug/net5.0/Persist.Cache.csproj.CopyComplete
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.Cache/obj/Debug/net5.0/Persist.Cache.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.Cache/obj/Debug/net5.0/ref/Persist.Cache.dll
+/media/morteza/6b53ded8-ff21-4348-afd5-962880213bc4/GeeksTestApp/src/Infrastructure/Persist.Cache/obj/Debug/net5.0/Persist.Cache.pdb
