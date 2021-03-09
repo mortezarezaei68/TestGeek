@@ -18,6 +18,10 @@ function myFunction() {
             if (localStorage.getItem("userId"))
                 localStorage.clear();
             localStorage.setItem("userId", data);
+            const y = document.getElementById("div1");
+            y.style.visibility = 'hidden';
+            const x = document.getElementById("div2");
+            x.style.visibility = 'visible'; 
         },
         error: function (x, err, desc) {
             alert(desc);
