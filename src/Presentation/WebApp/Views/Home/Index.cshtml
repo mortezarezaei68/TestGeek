@@ -11,32 +11,32 @@
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
 
-<div id="gameBoard" style="width: 100%; height: 100vh; display:  none">
-    <div class="main">
-      
-        <div class="top-bar">
-            <div>
-                <input type="button" value="chinese"/>
+    <div id="gameBoard" style="width: 100%; height: 100vh; display: none ">
+        <div class="main">
+            <div class="top-bar">
+                <div>
+                    <input type="button" value="chinese" id="chinese" class="droppable" onclick="chineseClicked()" />
+                </div>
+                <div>
+                    <input type="button" value="japanese" class="droppable" onclick="japaneseClicked()" />
+                </div>
             </div>
-            <div>
-                <input type="button" value="japanese"/>
+            <div class="main-section">
+                <div id="myDIV" class="mydiv" data-src="chinese" style="max-width: 100%;"></div>
+            </div>
+            <div class="bottom-bar">
+                <div>
+                    <input type="button" value="korean" class="droppable" onclick="koreanClicked()" />
+                </div>
+                <div>
+                    <input type="button" value="thai" class="droppable" onclick="thaiClicked()" />
+                </div>
             </div>
         </div>
-        <div class="main-section">
-               <img id="myDIV" class="mydiv" style="max-width: 100%;" src="images/008-k.jpg" alt="Italian Trulli">
-        </div>
-        <div class="bottom-bar">
-            <div>
-                <input type="button" value="korean"/>
-            </div>
-            <div>
-                <input type="button" value="thai"/>
-            </div>
-        </div>
+        <div><button onclick="start()">start game</button></div>
+        <div><button style="display: none" onclick="finish()">finish</button></div>
     </div>
-   
-    @* <div class="absolute"> <button class="bottomright" onclick="myFunction()">test</button></div> *@
-</div>
+
 <div id="loginPanel" style="width: 300px; display:  block">
     <input type="text" id="firstName">
     <input type="text" id="lastName">

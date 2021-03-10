@@ -23,9 +23,15 @@ namespace Services.Contract
             return userId;
         }
 
-        public async Task AddPoint(PointViewModel pointViewModel)
+        public async Task<PointUserViewModel> AddPoint(PointViewModel pointViewModel)
         {
             await _userRepository.AddPoint(pointViewModel.UserId, pointViewModel.Point);
+            var user=await _userRepository.GetById(pointViewModel.UserId);
+            return new PointUserViewModel
+            {
+                Name = user.FirstName + user.LastName,
+                Point = pointViewModel.Point
+            };
         }
 
         public async Task<UserViewModel> GetAllUserPoint(int userid)

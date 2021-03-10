@@ -24,8 +24,8 @@ namespace WebApp.Controllers
         [HttpPost("add-point")]
         public async Task<IActionResult> AddPoint(PointViewModel pointViewModel)
         {
-            await _userService.AddPoint(pointViewModel);
-            return NoContent();
+            var data=await _userService.AddPoint(pointViewModel);
+            return Ok(data);
         }
 
         [HttpGet("point/{id}")]
