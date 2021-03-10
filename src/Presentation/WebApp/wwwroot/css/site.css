@@ -101,12 +101,35 @@ div.parent {
   width: 100px;
   height: 100px;
   position: relative;
-  animation: mymove 3s infinite;
+  animation: mymove 10s infinite;
   animation-delay: 2s;
+}
+
+.main { 
+  display: flex; 
+  flex-direction: column; 
+} 
+.top-bar, .bottom-bar {
+  display: flex; 
+  flex-direction: row; 
+  justify-content: space-between; 
+}
+
+.top-bar, .bottom-bar { width: 100%;
 }
 
 @keyframes mymove {
   from {top: 0px;}
   to {top: 200px;}
+}
+.main-section{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 400px;
+}
+
+#myDIV {
+  margin: 0 auto;
 }
   
